@@ -59,7 +59,6 @@ Resolving deltas: 100% (1/1), done.
 next 
 
 type : cd Virus2.-0
-type  : ls 
 
 next 
 
