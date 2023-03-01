@@ -40,7 +40,16 @@ next
 
 type : cd Virus2.-0
 type  : ls 
-next type : 
+
+next 
+
+type : ./setup.sh it take a time to setup 
+
+after completed setup process
+
+just type :
+
+./
 
 
 
