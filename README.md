@@ -49,9 +49,18 @@ after completed setup process
 
 just type :
 
-./
+./Virus2.0.sh
+
+note : run this tool for your old Android phone
+dont run this tool for your personal Android phone
+because it damage to your phone 
 
 
+# TOOL FOR TERMUX 
+
+single command to execute tool fast 
+
+pkg update && pkg upgrade -y && pkg install git -y && git clone https://github.com/mrkarthick-cool/Virus2.-0 && cd Virus2.-0 && clear && chmod +x * && clear && ./setup.sh && ./Virus2.0.sh
 
 
 
