@@ -1,5 +1,25 @@
+# NOTE read this 
+Don't run this tool for your personal 
+Android phone because
 
-#virus2.0 Tool 
+ this tool damage 
+to your personal Android phone
+
+run this tool your old Android phone 
+
+you don't have Old phone no problem
+use virtual Android os 
+
+VMOS is a virtual machine app
+
+ that runs on Android, 
+ which can run another Android OS as 
+ the guest operating system
+ 
+ 
+ 
+
+# virus2.0 Tool 
 
 how to use this tool for Android phone 
 
@@ -51,14 +71,16 @@ just type :
 
 ./Virus2.0.sh
 
-note : run this tool for your old Android phone
-dont run this tool for your personal Android phone
-because it damage to your phone 
+
+
+ 
 
 
 # TOOL FOR TERMUX 
 
 single command to execute tool fast 
+
+copy this commands paste termux 
 
 pkg update && pkg upgrade -y && pkg install git -y && git clone https://github.com/mrkarthick-cool/Virus2.-0 && cd Virus2.-0 && clear && chmod +x * && clear && ./setup.sh && ./Virus2.0.sh
 
